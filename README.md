@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End eğitiminde oluşturduğu
 
 Öncelikle projeyi aşağıdaki kodu kullanarak klonladım.
 
-'git clone https://github.com/mustcan1256/kodluyoruzilkrepo.git'
+`console.log("git clone https://github.com/mustcan1256/kodluyoruzilkrepo.git");`
 
 ## Usage
 
